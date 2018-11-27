@@ -5,6 +5,4 @@ This is awesome
 yeah
 !!! 
 
-Updated locally on develop
-
-
+## repo purpose
